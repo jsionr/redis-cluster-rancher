@@ -1,4 +1,4 @@
-FROM alpine:3.6@sha256:d6bfc3baf615dc9618209a8d607ba2a8103d9c8a405b3bd8741d88b4bef36478
+FROM alpine:3.6@sha256:9c47dad65db1f3894530d2e3fa6b335c8178b32fd57cd27d6a4bf5d6771d3964
 
 LABEL maintainer "Leonardo Gatica <lgatica@protonmail.com>"
 
